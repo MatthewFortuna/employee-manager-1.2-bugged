@@ -1,0 +1,12 @@
+Issues Found:
+1. Names contain dashes between letters when clicked on before clicking on another employee. This affects both the initial employee and the employee being clicked on. This also stacks on a few employees after clicking and leaving a few times.
+2. Version 1.2 banner reads 'Version 1..2'.
+3. Version banner does not stay at the bottom of the page when page is condensed. 
+4. Title field does not accept the word 'Buyer'. Should be accepted.
+5. 'Save' is misspelled as 'Sieve'.
+6. New employee Profiles start out blank
+7. Incorrect error messages appear for name and title even after saving correct data. 
+8. Name save has to be attempted twice with different inputs before being accepted.
+9. If an employee is created first before clicking on any other employees, all employees become unpressable. This breaks the system
+10. New Employees are plagued with the same dashes in the employee name as mentioned before
+11. Red lines stay constant until the cancel button is pressed. They are static and affect all employees.
